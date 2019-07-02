@@ -1,13 +1,3 @@
-console.log("Hello World from your main file!");
-
-const test = () => {
-    console.log('--');
-};
-
-test();
-
-class Test {
-    constructor(name) {
-        this.name = name;
-    }
-}
+// import './m3'
+// import './m5'
+import './m7'
